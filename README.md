@@ -1,4 +1,4 @@
-# 🧠 Transformer From Scratch (PyTorch – Learning Project)
+# 🧠 Transformer From Scratch 
 
 A step-by-step experimental implementation of the **Transformer architecture** in PyTorch, built for deep understanding of how each component works internally.
 
