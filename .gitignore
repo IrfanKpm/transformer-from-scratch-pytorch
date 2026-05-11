@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Personal / scratch files
+brain_dump.txt
+tree.txt
+
+# Notebooks (Jupyter)
+.ipynb_checkpoints/
